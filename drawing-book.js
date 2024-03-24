@@ -10,6 +10,11 @@ function pageCount(n, p) {
 
     return (start < end) ? start : end;
 }
+/*
+    The below code didn't help in solving the problem there is still some bug in it.
+    TODO Using this code as part of debugging exercise in Level 5
+*/
+
 function pageCount2(n, p) {
     // Write your code here
     
